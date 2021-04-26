@@ -10,12 +10,18 @@ namespace CheckMelli
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Check Exist And Correct CodeMelli ...");
             Console.WriteLine("For Exit Press X ");
             while (true)
             {
-
+                Console.WriteLine("");
+                Console.WriteLine("******************** ");
                 Console.WriteLine("Please Enter Your Code ...");
+                Console.WriteLine("******************** ");
+                Console.WriteLine("");
+
+
                 string temp = Console.ReadLine();
                 if (temp.ToUpper() == "X")
                     Environment.Exit(0);
@@ -39,6 +45,8 @@ namespace CheckMelli
                 }
                 else
                     Console.WriteLine("Your Code Must 10 Digit , Please enter Correct Number  ...");
+
+
 
             }
 
