@@ -21,8 +21,9 @@ namespace CheckMelli
                 Console.WriteLine("******************** ");
                 Console.WriteLine("");
 
-
+                //گرفتن رشته ورودی
                 string temp = Console.ReadLine();
+
                 if (temp.ToUpper() == "X")
                     Environment.Exit(0);
 
