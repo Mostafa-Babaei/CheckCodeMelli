@@ -1,0 +1,7 @@
+C:\Users\M.BABAEI\Desktop\CheckCodeMelli\CheckMelli\CheckMelli\bin\Debug\CheckMelli.exe.config
+C:\Users\M.BABAEI\Desktop\CheckCodeMelli\CheckMelli\CheckMelli\bin\Debug\CheckMelli.exe
+C:\Users\M.BABAEI\Desktop\CheckCodeMelli\CheckMelli\CheckMelli\bin\Debug\CheckMelli.pdb
+C:\Users\M.BABAEI\Desktop\CheckCodeMelli\CheckMelli\CheckMelli\obj\Debug\CheckMelli.csprojAssemblyReference.cache
+C:\Users\M.BABAEI\Desktop\CheckCodeMelli\CheckMelli\CheckMelli\obj\Debug\CheckMelli.csproj.CoreCompileInputs.cache
+C:\Users\M.BABAEI\Desktop\CheckCodeMelli\CheckMelli\CheckMelli\obj\Debug\CheckMelli.exe
+C:\Users\M.BABAEI\Desktop\CheckCodeMelli\CheckMelli\CheckMelli\obj\Debug\CheckMelli.pdb
