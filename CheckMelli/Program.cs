@@ -10,9 +10,10 @@ namespace CheckMelli
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("GitHub Link : https://github.com/Mostafa-Babaei/CheckCodeMelli.git");
             Console.WriteLine("Check Exist And Correct CodeMelli ...");
             Console.WriteLine("For Exit Press X ");
+
             while (true)
             {
                 Console.WriteLine("");
